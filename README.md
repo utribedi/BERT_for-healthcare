@@ -1,4 +1,4 @@
-# BERT_for-healthcare
+# BERT_for-healthcare (Google Colab notebook links)
 
 Approach 1: BERT finetuning - https://colab.research.google.com/drive/10Ltovmzlrju1FFZFn8X6bRsmT9LbG84_?usp=sharing
 
